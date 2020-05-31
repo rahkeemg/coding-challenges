@@ -7,7 +7,18 @@ This repo will be a collection of the different coding problems that I have comp
 You can click on the folders and files to see the content for each respective coding challenge.
 
 
-## Goal/Intent of Project:
+## Intent & Goals of Project:
+
+
+### _Intent:_ 
+
+
+The intent of this project is **not** to provide an answer sheet for coding problems, but to improve and sharpen my own skillset. Below are some of the direct intents of this project, and hopefully this maybe of help, or inspiration, to others seeking the same:
+
+
+### _Goals:_
+
+
 - Get better at programming and thinking logically through coding problems
 - Improve skills in Python and other programming languages that I am using, or will pick up in the future
 - Get better at using Markdown, Git, and Github as well as any additional software that may help in projects observed.
@@ -15,6 +26,7 @@ You can click on the folders and files to see the content for each respective co
 
 
 ### Challenges:
+
 
 * [Snail_Sort](./Snail_Sort)
 
