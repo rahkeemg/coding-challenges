@@ -22,9 +22,10 @@ This image will illustrate things more clearly:
 ![Map_Traversal](./img/example_01.png)
 
 
-NOTE: The idea is not sort the elements from the lowest value to the highest; 
+**NOTE**: The idea is not sort the elements from the lowest value to the highest; 
         the idea is to traverse the 2-d array in a clockwise snailshell pattern.
 
-NOTE 2: The 0x0 (empty matrix) is represented as en empty array inside an array: ```[[]]```
+**NOTE 2**: The 0x0 (empty matrix) is represented as en empty array inside an array: ```[[]]```
 
-### _Reference:_ https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+### _Reference:_ 
+* [Snail Sort: Code Wars](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
