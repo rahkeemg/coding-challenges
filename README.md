@@ -25,7 +25,7 @@ The intent of this project is **not** to provide an answer sheet for coding prob
 - Improve technical writting and ability to explain coding methodology, clear and concisely to a large majority of people
 
 
-### Challenges:
+## Challenges:
 
 
 * [Snail_Sort](./Snail_Sort)
