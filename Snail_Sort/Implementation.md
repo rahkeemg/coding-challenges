@@ -15,12 +15,12 @@ n x n array is reached.  I decided to use conditionals to implement my solution.
     - list of values in order clockwise movement solution
 
 ### **_Pseudo code:_**
-    1.) Start at the beginning of n x n array  (0,0)<br>
+    1.) Start at the beginning of n x n array  (0,0)
 
     2.) Continue going to the right by `col +=1`.
-        Once the end is reach, or the next point is part of the list, pivot and move in the next direction to the next point.<br>
+        Once the end is reach, or the next point is part of the list, pivot and move in the next direction to the next point.
 
-    3.) Continue to pivot and move until the length of the returnd list is equal to the amount of entries in the square matrix, or nn array
+    3.) Continue to pivot and move until the length of the returnd list is equal to the amount of entries in the square matrix, or n x n array
     
 `len(results) = n*n` is the end point of the function
     
