@@ -15,7 +15,7 @@ n x n array is reached.  I decided to use conditionals to implement my solution.
     - list of values in order clockwise movement solution
 
 ### **_Pseudo code:_**
-    1.) Start at the beginning of 2D array  (0,0)<br>
+    1.) Start at the beginning of n x n array  (0,0)<br>
 
     2.) Continue going to the right by `col +=1`.
         Once the end is reach, or the next point is part of the list, pivot and move in the next direction to the next point.<br>
