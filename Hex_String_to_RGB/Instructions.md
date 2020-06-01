@@ -16,4 +16,5 @@ _Example:_
 
 ## Reference:
 
-[Convert A Hex String to RGB - CodeWars](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7/solutions/python)
+* [Convert A Hex String to RGB - CodeWars](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7/solutions/python)
+* [Hexadecimal number system - Khan Academy](https://www.youtube.com/watch?v=4EJay-6Bioo)
