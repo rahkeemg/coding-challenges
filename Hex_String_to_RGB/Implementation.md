@@ -24,3 +24,5 @@ Example: `hex_string = #000000`
 * Return the assoociated integer values with respective color as a dictionary
 
     `{'r': 0, 'g': 0, 'b': 0}`
+
+Refer to [conversion.py](./conversion.py) for code

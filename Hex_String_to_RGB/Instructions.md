@@ -1,5 +1,7 @@
 # Instructions
 
+## Overeview:
+
 
 When working with color values it can sometimes be useful to extract the individual red, green, and blue (RGB) component values for a color. Implement a function that meets these requirements:
 
@@ -8,9 +10,10 @@ Returns an object with the structure `{r: 255, g: 153, b: 51}` where `r`, `g`, a
 
 **Note:** your implementation does not need to support the shorthand form of hexadecimal notation `(ie "#FFF")`
 
-Example
+_Example:_
 `"#FF9933" --> {r: 255, g: 153, b: 51}`
 
 
-# Reference:
+## Reference:
+
 [Convert A Hex String to RGB - CodeWars](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7/solutions/python)
