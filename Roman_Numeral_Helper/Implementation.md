@@ -59,7 +59,7 @@ int('3') * 10**3 = 3 * 1000 = 3000
 3000 + 700 + 80 + 9 = 3789
 ```
 
-The original value is `3879.`  With the string reversed and stored in a list `[9,8,7,3]`, we can now generate its roman numeral representation
+The original value is `3879.`  With the string reversed and stored in a list `['9','8','7','3']`, we can now generate its roman numeral representation
 
 ##### _Step 4:_
 
